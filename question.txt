@@ -1,0 +1,25 @@
+Q. How to display employees whose salary between 15000 and 25000 without using between operators?
+
+Q. Display employees whose COMMISION_PCT is other than 0.10.
+
+Q. Delete employees from department Purchasing and salary less than 2500.
+
+Q. Display the list of employees having first name ‘David’ or ‘Diana’ without using 'LIKE'.
+
+Q. Get all employee details whose "FirstName" contains 'K'
+
+Q. Get all employee details whose "FirstName" starts with any single character between 'a-p'
+
+Q. Get employee details whose joining date between "2013-01-01" and "2016-09-08"
+
+Q. Get dept wise avg salary and order by salary asc
+
+Q. Find out 2nd max salary using top and subquery
+
+Q. Write down query to fetch project name and assign to more than one employee
+
+Q. Finf out 3rd min salary using subquery
+
+
+
+(Dont Discuss Answers in group)
